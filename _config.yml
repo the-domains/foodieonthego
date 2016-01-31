@@ -2,6 +2,7 @@ name: foodieonthego
 favicon: null
 layout_spectrum: 0.2820109867025167
 typography_spectrum: 0.07209601067006588
+title: Foodie On The Go
 cta:
   domain: null
   bucket: null
