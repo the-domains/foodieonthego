@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Review of The Vintage Kitchen restaurant in Dublin. Haddock chowder, pancetta risotto, pork belly, lamb shank, treacle gravy.'
-datePublished: '2016-01-31T22:22:28.430Z'
+datePublished: '2016-01-31T22:22:28.590Z'
 dateModified: '2016-01-31T22:22:22.146Z'
 title: 'The Vintage Kitchen, Dublin'
 author: []
