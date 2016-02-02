@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Seef Bootje's Bier in Antwerp"
-datePublished: '2016-02-02T00:29:30.310Z'
+datePublished: '2016-02-02T00:29:30.318Z'
 dateModified: '2016-02-02T00:29:20.542Z'
 title: Belgian Beers
 author: []
