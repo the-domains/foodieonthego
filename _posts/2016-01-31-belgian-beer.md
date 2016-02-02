@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Seef Bootje's Bier in Antwerp"
-datePublished: '2016-02-02T00:29:30.318Z'
-dateModified: '2016-02-02T00:29:20.542Z'
+datePublished: '2016-02-02T00:38:20.871Z'
+dateModified: '2016-02-02T00:38:12.728Z'
 title: Belgian Beers
 author: []
 sourcePath: _posts/2016-01-31-belgian-beer.md
@@ -27,21 +27,41 @@ _type: WebPage
 A sampling of my sampling of beers from Belgium's best local (and large) breweries. 
 
 **Seef Bootje's Bier of Antwerp**
-![Belgian Beer in Antwerp](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d5d10abe78c2599f0b97bf38fe4d9738ce67d1c.jpg)
+
+Enjoying a local Seef Bootje Bier in Antwerp at the Red Star Line museum cafe
+![Belgian Beer in Antwerp](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3ea7bd587adf3aece1a20ad05d623590854b61b8.jpg)
+
+****
 
 **Leffe Ruby**
-![Leffe Ruby Bier](https://the-grid-user-content.s3-us-west-2.amazonaws.com/823867cf-239c-4196-b914-7bd8582cc045.jpg)
+
+Delightful Leffe Ruby sampling with charcuterie at Taste of Paris.
+![Leffe Ruby Bier](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf96440edd6ef2f72d8ddbfede65226997f6ca80.jpg)
+
+****
 
 **Gouden Carolus Classic Bier of ****Mechelen**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b47ad4ab-44ba-41e4-82e7-76b800c0d5a0.jpg)
+
+Imagine having dessert with a paired beer in a converted distillery in Ghent. In this case, chocolate mousse with Gouden Carolus Classic from Brouwerij Het Anker.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/07f30e56c43adee1592a5841b38a4fda74e4edde.jpg)
+
+****
 
 **Straffe Hendrick Quadruple (11%) Bier of Brugges**
-![Dark beer in Brugge](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1feb338b-a522-4e60-9d2c-3a570e42c5a2.jpg)
+
+Spend a day on the patio, Straffe Hendrik Quadrupel beer in hand at De Halve Maan Brewery in Brugge.
+![Dark beer in Brugge](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfe5f260841582c7db4c79d0c1f3ee597b0fa2f8.jpg)
+
+****
 
 **Rodenbach Grand Cru of Roeselare**
-![Rodenbach Grand Cru Bier](https://the-grid-user-content.s3-us-west-2.amazonaws.com/188b3d04-8ca7-42b6-b264-e49b889ad235.jpg)
+
+The local beer in is a sour red Grand Cru beer which unexpectedly puckered my mouth. Truly unique!
+![Rodenbach Grand Cru Bier](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f01228cf07d27fdcdbdcc9d0d27853f2e0ca39b.jpg)
 
 **Belle-Vue Kriek in Brussels**
 
+Another surprise! Belle-Vue Kriek, or Cherry, beer is an explosion of cherries with bubbles. 
+
 ****
-![Belle-Vue Kriek Beer](https://the-grid-user-content.s3-us-west-2.amazonaws.com/31fbb3f8-eef7-4801-9cb2-8e29c2b5de25.jpg)
+![Belle-Vue Kriek Beer](https://s3-us-west-2.amazonaws.com/the-grid-img/p/04059c491eb71ca3c07a3790dde80fc19a9e854f.jpg)
