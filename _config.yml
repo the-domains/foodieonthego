@@ -1,29 +1,41 @@
-name: foodieonthego
-favicon: null
-layout_spectrum: 0.97397
-typography_spectrum: 0.13895
 title: Foodie On The Go
 cta:
-  domain: null
-  bucket: null
   version: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.6829787
+favicon: null
+name: foodieonthego
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.2425205719191581
+  saturation: 0.125
   brandColors:
     - '#9D2D3C'
     - '#DDE4DD'
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.2425205719191581
   lightness: 0.75
-  saturation: 0.125
   rhythmicContrast: 0.09285354125313461
-purpose: []
+typography_spectrum: 0.13895
