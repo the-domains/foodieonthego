@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/9R2vSbIEke/?taken-by=osowired'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-05T23:37:25.851Z'
+dateModified: '2016-03-05T23:37:16.531Z'
 author:
   - name: osowired
     url: 'https://www.instagram.com/osowired'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1103904127791941918'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/9R2vSbIEke/?taken-by=osowired'
 title: 'The tasting notes were most interesting at #trius #winery - #cigarbox #pencilshavings #wine #notl #niagara #niagaraonthelake #winetasting'
-datePublished: '2016-03-05T18:28:14.271Z'
-dateModified: '2016-03-05T17:32:15.574Z'
 sourcePath: _posts/2016-03-05-the-tasting-notes-were-most-interesting-at-trius-winery-.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
