@@ -1,6 +1,6 @@
 name: Foodie On The Go
 favicon: null
-layout_spectrum: 0.99819
+layout_spectrum: 0.75971
 typography_spectrum: 0.13895
 title: Foodie On The Go
 collections:
@@ -34,8 +34,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.2425205719191581
-  lightness: 0.75
-  saturation: 0.125
-  rhythmicContrast: 0.09285354125313461
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
