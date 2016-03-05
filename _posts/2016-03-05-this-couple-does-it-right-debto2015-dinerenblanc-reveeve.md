@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
   domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=1061216070651627876'
@@ -27,13 +27,17 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/66MmTJIElk/?taken-by=osowired'
 title: 'This couple does it right! #debto2015 #dinerenblanc #reveeventdesign #toronto #torontofoodie'
-datePublished: '2016-03-05T18:24:06.145Z'
-dateModified: '2016-03-05T17:33:40.224Z'
+datePublished: '2016-03-05T20:21:00.598Z'
+dateModified: '2016-03-05T19:37:05.234Z'
 sourcePath: _posts/2016-03-05-this-couple-does-it-right-debto2015-dinerenblanc-reveeve.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
