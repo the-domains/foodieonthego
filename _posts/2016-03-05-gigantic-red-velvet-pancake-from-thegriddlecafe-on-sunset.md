@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
   domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=1159618372520921135'
@@ -27,13 +27,17 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/BAXysQRIEgv/?taken-by=osowired'
 title: 'Gigantic Red Velvet #pancake from @thegriddlecafe on #Sunset in #la - with cream cheese icing, served with French press #coffee So delicious, light and fluffy. #breakfast #redvelvet #creamcheese #torontofoodie #foodporn #foodie #foodieonthego #hollywood'
-datePublished: '2016-03-05T18:30:53.367Z'
-dateModified: '2016-03-05T17:31:20.534Z'
+datePublished: '2016-03-05T20:31:50.646Z'
+dateModified: '2016-03-05T19:03:22.927Z'
 sourcePath: _posts/2016-03-05-gigantic-red-velvet-pancake-from-thegriddlecafe-on-sunset.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
