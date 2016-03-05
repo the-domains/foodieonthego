@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'https://www.instagram.com'
   name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
   domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 keywords: []
 app_links:
   - url: 'instagram://media?id=996709962403039998'
@@ -27,13 +27,17 @@ app_links:
     type: android
 isBasedOnUrl: 'https://www.instagram.com/p/3VBm4VIEr-/?taken-by=osowired'
 title: 'So lucky to be in #Antwerp #Belgium as the #foodtruck #foodfestival was on - with 6 lines of booths (70+?). Right on the #waterfront next to a castle and the #GrotMarkt . Huge mix of #food #vehicles including converted #campers and towed #trailers . #bikes aplenty. #foodie #foodieabroad #Mexican soft #corn #tacos #Indian #tandoori and #naan #Vietnamese #springrolls #Belgian #frites'
-datePublished: '2016-03-05T18:21:09.422Z'
-dateModified: '2016-03-05T17:37:48.415Z'
+datePublished: '2016-03-05T20:31:13.213Z'
+dateModified: '2016-03-05T19:39:05.446Z'
 sourcePath: _posts/2016-03-05-so-lucky-to-be-in-antwerp-belgium-as-the-foodtruck-foodf.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+starred: true
+description: ''
+authors: []
 _type: Photograph
 _context: 'http://schema.org'
 
