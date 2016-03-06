@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T14:47:17.159Z'
-dateModified: '2016-03-06T14:46:39.714Z'
+datePublished: '2016-03-06T14:53:25.301Z'
+dateModified: '2016-03-06T14:47:21.284Z'
 title: 'Yorkholo Brewing Company, Mansfield, PA'
 author: []
 sourcePath: _posts/2016-03-06-yorkholo-brewing-company-and-restaurant-mansfield-pa.md
