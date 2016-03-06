@@ -1,14 +1,14 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: "Seef Bootje's Bier in Antwerp"
-datePublished: '2016-02-02T00:38:21.152Z'
-dateModified: '2016-02-02T00:38:12.728Z'
-title: Belgian Beers
+description: Drinking many kinds of Belgian Beers in Belgium
+datePublished: '2016-03-06T13:33:37.435Z'
+dateModified: '2016-03-06T13:33:29.482Z'
+title: 'Belgian Beers - In Belgium!'
 author: []
 sourcePath: _posts/2016-01-31-belgian-beer.md
 published: true
@@ -19,10 +19,10 @@ publisher:
   url: null
   favicon: null
 url: belgian-beer/index.html
-_type: WebPage
+_type: Article
 
 ---
-# Belgian Beers
+# Belgian Beers - In Belgium!
 
 A sampling of my sampling of beers from Belgium's best local (and large) breweries. 
 
