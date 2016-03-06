@@ -4,7 +4,7 @@
         <description><![CDATA[Foodie On The Go]]></description>
         <link>https://thegrid.ai/foodieonthego/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 01:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 13:34:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foodieonthego/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gigantic Red Velvet #pancake from @thegriddlecafe on #Sunset in #la - with cream cheese icing, served with French press #coffee So delicious, light and fluffy. #breakfast #redvelvet #creamcheese #torontofoodie #foodporn #foodie #foodieonthego #hollywood]]></title>
@@ -49,8 +49,15 @@
             <pubDate>Sat, 05 Mar 2016 20:05:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Belgian Beers - In Belgium!]]></title>
+            <description><![CDATA[<article><h1>Belgian Beers - In Belgium!</h1><p>A sampling of my sampling of beers from Belgium's best local (and large) breweries. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2bb29fa5ac9b1b7f5c9e51e61e49beecf1ba689.jpg"></article>]]></description>
+            <link>https://thegrid.ai/foodieonthego/belgian-beer/index.html</link>
+            <guid isPermaLink="false">b9b4635c-3573-46b8-9daf-f74cb2f53565</guid>
+            <pubDate>Sun, 06 Mar 2016 13:33:37 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Rogue Dead Guy Ale]]></title>
-            <description><![CDATA[<article><h1>Rogue Dead Guy Ale</h1><p>A delish Rogue Dead Guy Ale from Oregon to be had at Toronto's Bier Markt</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33781bf0-408f-4738-8553-3940efe35427.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Rogue Dead Guy Ale</h1><p>A delish Rogue Dead Guy Ale from Oregon to be had at Toronto's Bier Markt</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b5f5320a6e4b99d5346b18cd271506948000015.jpg"></article>]]></description>
             <link>https://thegrid.ai/foodieonthego/e7e9f4f5-0556-4a05-a839-c84c2204f9e3/index.html</link>
             <guid isPermaLink="false">e7e9f4f5-0556-4a05-a839-c84c2204f9e3</guid>
             <pubDate>Sun, 06 Mar 2016 01:00:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/foodieonthego/0aa76191-a28b-4058-b041-7d3352356478/index.html</link>
             <guid isPermaLink="false">0aa76191-a28b-4058-b041-7d3352356478</guid>
             <pubDate>Sun, 06 Mar 2016 00:14:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The tasting notes were most interesting at #trius #winery - #cigarbox #pencilshavings #wine #notl #niagara #niagaraonthelake #winetasting]]></title>
-            <description><![CDATA[<article><h1>The tasting notes were most interesting at #trius #winery - #cigarbox #pencilshavings #wine #notl #niagara #niagaraonthelake #winetasting</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f89ba264a4a55f9ef4c8d7c434ce5650e1714875.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/9R2vSbIEke/?taken-by=osowired</link>
-            <guid isPermaLink="false">c7d24fd2-d2fb-44ce-a2a5-7497756a8616</guid>
-            <pubDate>Sat, 05 Mar 2016 23:37:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
