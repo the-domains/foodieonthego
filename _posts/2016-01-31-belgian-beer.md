@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: Drinking many kinds of Belgian Beers in Belgium
-datePublished: '2016-03-06T13:33:37.435Z'
-dateModified: '2016-03-06T13:33:29.482Z'
+datePublished: '2016-03-06T13:36:53.036Z'
+dateModified: '2016-03-06T13:36:37.814Z'
 title: 'Belgian Beers - In Belgium!'
 author: []
 sourcePath: _posts/2016-01-31-belgian-beer.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: belgian-beer/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Belgian Beers - In Belgium!
