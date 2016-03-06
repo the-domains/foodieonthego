@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T15:58:00.725Z'
-dateModified: '2016-03-06T14:53:32.931Z'
+datePublished: '2016-03-06T19:45:37.206Z'
+dateModified: '2016-03-06T19:45:02.214Z'
 title: 'Yorkholo Brewing Company, Mansfield, PA'
 author: []
 sourcePath: _posts/2016-03-06-yorkholo-brewing-company-and-restaurant-mansfield-pa.md
@@ -32,6 +32,8 @@ A lively, casual atmosphere at the Yorkholo brewery restaurant.
 
 Sharing a flight of beer to sample all the great varieties in house at Yorkholo.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8cbc3b0-ec90-422c-b1c0-7efef034b0ff.jpg)
+
+While Mansfield may seem off the beaten path, it's got a cute Main Street and Yorkholo makes it even more worthwhile.
 
 Enjoyed in 2012\.            
 
