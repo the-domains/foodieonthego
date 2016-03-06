@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'In English, The Beauty and the Beeeef.'
-datePublished: '2016-03-06T15:48:43.334Z'
-dateModified: '2016-03-06T15:48:35.962Z'
-title: 'La Belle et La Boeuf , Laval, Quebec'
+datePublished: '2016-03-06T15:50:43.589Z'
+dateModified: '2016-03-06T15:49:12.327Z'
+title: 'La Belle et la Boeuf , Laval, Quebec'
 author: []
+sourcePath: _posts/2016-03-06-la-belle-et-la-boeuf-laval-quebec.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-la-belle-et-la-boeuf-laval-quebec.md
-published: true
 url: la-belle-et-la-boeuf-laval-quebec/index.html
 _type: WebPage
 
 ---
-# La Belle et La Boeuf , Laval, Quebec
+# La Belle et la Boeuf , Laval, Quebec
 
 This lively burger bar restaurant on the promenade in Laval, outside of Montreal, has a great patio and engaging pop interior. Do check out the murals and hanging art - and don't miss the bathrooms.  
 
