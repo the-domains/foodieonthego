@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Featured on Diners, Drive-Ins and Dives'
-datePublished: '2016-03-06T14:53:46.310Z'
-dateModified: '2016-03-06T14:00:32.029Z'
+datePublished: '2016-03-06T15:57:32.850Z'
+dateModified: '2016-03-06T14:53:55.175Z'
 title: 'Joe Squared Pizza, Baltimore, MD'
 author: []
 sourcePath: _posts/2016-03-06-joe-squared-pizza-baltimore-md.md
