@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Traditional American favourites
-datePublished: '2016-03-06T18:30:55.687Z'
-dateModified: '2016-03-06T18:30:36.875Z'
+datePublished: '2016-03-06T18:35:03.808Z'
+dateModified: '2016-03-06T18:34:34.283Z'
 title: 'Crystal Beer Parlor, Savannah, GA'
 author: []
+sourcePath: _posts/2016-03-06-crystal-beer-parlor-savannah-ga.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-crystal-beer-parlor-savannah-ga.md
-published: true
 url: crystal-beer-parlor-savannah-ga/index.html
 _type: WebPage
 
