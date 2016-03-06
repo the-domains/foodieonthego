@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-06T01:37:15.932Z'
-dateModified: '2016-03-06T01:36:28.227Z'
-title: '49 West restaurant, Annapolis, MD'
+datePublished: '2016-03-06T01:42:25.907Z'
+dateModified: '2016-03-06T01:41:51.569Z'
+title: 'Forty-Nine West, Annapolis, MD'
 author: []
+sourcePath: _posts/2016-03-06-49-west-restaurant-annapolis-md.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-06-49-west-restaurant-annapolis-md.md
-published: true
 _type: Blurb
 
 ---
