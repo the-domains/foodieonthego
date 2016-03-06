@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Not too often do you get to cook with a famous chef!'
-datePublished: '2016-03-06T15:57:13.226Z'
-dateModified: '2016-03-06T14:54:25.164Z'
+datePublished: '2016-03-06T18:32:53.843Z'
+dateModified: '2016-03-06T18:32:53.606Z'
 title: 'Cooking Class with Chef David Adjey, Dish Cooking Studio, Toronto'
 author: []
 sourcePath: _posts/2016-03-06-cooking-class-with-chef-david-adjey-dish-studio-toronto.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: cooking-class-with-chef-david-adjey-dish-cooking-studio-to/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Cooking Class with Chef David Adjey, Dish Cooking Studio, Toronto
