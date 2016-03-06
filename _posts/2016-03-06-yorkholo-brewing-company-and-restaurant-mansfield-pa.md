@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-06T19:45:37.206Z'
-dateModified: '2016-03-06T19:45:02.214Z'
+description: Off the beaten path
+datePublished: '2016-03-06T19:54:50.735Z'
+dateModified: '2016-03-06T19:54:29.660Z'
 title: 'Yorkholo Brewing Company, Mansfield, PA'
 author: []
 sourcePath: _posts/2016-03-06-yorkholo-brewing-company-and-restaurant-mansfield-pa.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: yorkholo-brewing-company-mansfield-pa/index.html
+_type: WebPage
 
 ---
 # Yorkholo Brewing Company, Mansfield, PA
