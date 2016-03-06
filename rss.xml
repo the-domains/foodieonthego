@@ -4,7 +4,7 @@
         <description><![CDATA[Foodie On The Go]]></description>
         <link>https://thegrid.ai/foodieonthego/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 14:54:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2016 14:54:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/foodieonthego/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Gigantic Red Velvet #pancake from @thegriddlecafe on #Sunset in #la - with cream cheese icing, served with French press #coffee So delicious, light and fluffy. #breakfast #redvelvet #creamcheese #torontofoodie #foodporn #foodie #foodieonthego #hollywood]]></title>
@@ -49,6 +49,13 @@
             <pubDate>Sat, 05 Mar 2016 20:05:21 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Cooking Class with Chef David Adjey, Dish Cooking Studio, Toronto]]></title>
+            <description><![CDATA[<article><h1>Cooking Class with Chef David Adjey, Dish Cooking Studio, Toronto</h1><p>We were given the opportunity to get hands-on and prepare 3 different meals.  Chef Adjey made his way around to provide instruction and tips.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9f482d41f301fa3e032cb7cf3f61b1ac61ca66a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/foodieonthego/cooking-class-with-chef-david-adjey-dish-cooking-studio-to/index.html</link>
+            <guid isPermaLink="false">dc67cda6-9f3b-4ed7-ad8e-b7ee93c71de0</guid>
+            <pubDate>Sun, 06 Mar 2016 14:54:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Joe Squared Pizza, Baltimore, MD]]></title>
             <description><![CDATA[<article><h1>Joe Squared Pizza, Baltimore, MD</h1><p>Joe had a Hawaiian-style pizza and, it being Baltimore, mine was clam, bacon, bocconcini. Oh, yummy!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9aa103363e30022987f27cc9e597bf1702525eb0.jpg"></article>]]></description>
             <link>https://thegrid.ai/foodieonthego/joe-squared-pizza-baltimore-md/index.html</link>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/foodieonthego/starbucks-at-korenmarkt-in-ghent-belgium/index.html</link>
             <guid isPermaLink="false">51e13aad-26b9-4106-b66c-85fdefc80b3d</guid>
             <pubDate>Sun, 06 Mar 2016 00:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/13d09ebc-1174-4be2-aaff-85e52b64ea44.jpg">]]></description>
-            <link>https://thegrid.ai/foodieonthego/0aa76191-a28b-4058-b041-7d3352356478/index.html</link>
-            <guid isPermaLink="false">0aa76191-a28b-4058-b041-7d3352356478</guid>
-            <pubDate>Sun, 06 Mar 2016 00:14:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
