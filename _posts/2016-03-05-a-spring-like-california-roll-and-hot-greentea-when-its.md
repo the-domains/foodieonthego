@@ -1,15 +1,19 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.instagram.com/p/BCeSANBIEis/?taken-by=osowired'
+inLanguage: null
+starred: false
+keywords: []
+description: 'Diamond Sushi, Barrie, ON'
+datePublished: '2016-03-13T19:05:16.401Z'
+dateModified: '2016-03-13T19:04:55.831Z'
 author:
   - name: osowired
     url: 'https://www.instagram.com/osowired'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.instagram.com'
-  name: Instagram
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-  domain: www.instagram.com
-keywords: []
 app_links:
   - url: 'instagram://media?id=1197473729741867180'
     type: ios
@@ -25,15 +29,15 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/BCeSANBIEis/?taken-by=osowired'
-title: "A Spring-like #california roll and #hot #greentea when it's snowy and cold outside. One warms you up and the other makes your dreams of #spring seem closer. #foodie #foodporn #foodieonthego #torontofoodie #sushi"
-datePublished: '2016-03-05T18:32:05.636Z'
-dateModified: '2016-03-05T17:27:52.746Z'
+title: "A Spring-like California roll and hot green tea when it's snowy and cold outside. One warms you up and the other makes your dreams of Spring seem closer. "
 sourcePath: _posts/2016-03-05-a-spring-like-california-roll-and-hot-greentea-when-its.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
 _type: Photograph
 _context: 'http://schema.org'
 
