@@ -1,15 +1,17 @@
 ---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-09-02T02:12:52.037Z'
+dateModified: '2016-09-02T02:12:51.700Z'
 author:
   - name: osowired
     url: 'https://www.instagram.com/osowired'
     avatar: {}
 related: []
-publisher:
-  name: Instagram
-  domain: www.instagram.com
-  url: 'https://www.instagram.com'
-  favicon: 'https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico'
-keywords: []
 app_links:
   - url: 'instagram://media?id=846746835918800992'
     type: ios
@@ -25,19 +27,20 @@ app_links:
     package: com.instagram.android
     namespace: google
     type: android
-isBasedOnUrl: 'https://www.instagram.com/p/vAP8LRoEhg/?taken-by=osowired'
-title: '#giant #pumpkins on a semi #truck flatbed. A cool #October day which began to freeze in #PortElgin #ontario for #pumpkinfest #fall #festival #travel'
-datePublished: '2016-03-05T20:05:21.707Z'
-dateModified: '2016-03-05T19:05:39.586Z'
+title: >-
+  #giant #pumpkins on a semi #truck flatbed. A cool #October day which began to
+  freeze in #PortElgin #ontario for #pumpkinfest #fall #festival #travel
 sourcePath: _posts/2016-03-05-giant-pumpkins-on-a-semi-truck-flatbed-a-cool-october-d.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
-inLanguage: null
-starred: true
-description: ''
 authors: []
+publisher:
+  name: Instagram
+  domain: www.instagram.com
+  url: 'https://www.instagram.com'
+  favicon: >-
+    https://instagramstatic-a.akamaihd.net/h1/images/ico/favicon.ico/7cdab0872b15.ico
+via: {}
+starred: true
+url: giant-pumpkins-on-a-semi-truck-flatbed-a-cool-october-d/index.html
 _type: Photograph
 _context: 'http://schema.org'
 
