@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: Drinking many kinds of Belgian Beers in Belgium
-datePublished: '2016-03-06T13:36:53.036Z'
-dateModified: '2016-03-06T13:36:37.814Z'
-title: 'Belgian Beers - In Belgium!'
-author: []
+description: "A sampling of my sampling of beers from Belgium's best local (and large) breweries.\_"
+datePublished: '2016-09-02T01:40:45.882Z'
+dateModified: '2016-09-02T01:40:45.223Z'
+title: Seef Bier
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-31-belgian-beer.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: belgian-beer/index.html
 _type: WebPage
 
