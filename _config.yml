@@ -31,6 +31,9 @@ navigation:
   - name: 'Musical Pub Crawl, Dublin'
     id: 338fdc58-5481-46a7-95b1-b8c857071f10
     type: content
+  - name: 'The Vintage Kitchen, Dublin'
+    id: 01c1d4cf-8c2b-46b7-8d21-c532221ccb41
+    type: content
 favicon: null
 collections:
   - index:
