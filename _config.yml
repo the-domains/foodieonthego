@@ -1,20 +1,34 @@
-title: Foodie On The Go
-cta:
-  version: null
-  bucket: null
-  domain: null
-layout_spectrum: 0.25926
-favicon: null
-name: Foodie On The Go
-purpose: []
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.59243
+color:
+  brandStrength: 0.4787234
+  lightness: 0.6574468
+  saturation: 0.6319149
+  rhythmicContrast: 0.3446808
+  brandColors:
+    - '#ffffff'
+    - '#ec7c23'
+    - '#f7be43'
+    - '#6c6c6c'
+    - '#000000'
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.25926
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Foodie On The Go
+cta:
+  version: null
+  bucket: null
+  domain: null
+navigation:
+  - name: Belgian Beers - In Belgium!
+    id: b9b4635c-3573-46b8-9daf-f74cb2f53565
+    type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -27,15 +41,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.4787234
-  lightness: 0.6574468
-  saturation: 0.6319149
-  rhythmicContrast: 0.3446808
-  brandColors:
-    - '#ffffff'
-    - '#ec7c23'
-    - '#f7be43'
-    - '#6c6c6c'
-    - '#000000'
-typography_spectrum: 0.59243
+title: Foodie On The Go
+purpose: []
