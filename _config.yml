@@ -49,6 +49,9 @@ navigation:
   - name: 'The Festival of South Asia on Gerrard Street, Toronto'
     id: a8d07409-cd61-4043-8eda-6c3b00335255
     type: content
+  - name: 'Pumpkinfest, Port Elgin, ON'
+    id: 4c96dbc4-6529-48ae-b479-aa0560f732b0
+    type: content
 favicon: null
 collections:
   - index:
