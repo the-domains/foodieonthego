@@ -58,6 +58,9 @@ navigation:
   - name: 'Nick''s Original, Charleston, SC'
     id: 0d58dc2b-d17c-45b9-ba44-441527fa7616
     type: content
+  - name: 'The Willow Tea Rooms, Glasgow, Scotland'
+    id: 5ccefa4b-e1c7-480e-84a2-32def1027537
+    type: content
 favicon: null
 collections:
   - index:
