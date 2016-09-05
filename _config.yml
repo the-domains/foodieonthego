@@ -46,6 +46,9 @@ navigation:
   - name: 'Joe Squared Pizza, Baltimore, MD'
     id: ad41b62d-9320-4b80-8c18-a63b5a96f0ed
     type: content
+  - name: 'The Festival of South Asia on Gerrard Street, Toronto'
+    id: a8d07409-cd61-4043-8eda-6c3b00335255
+    type: content
 favicon: null
 collections:
   - index:
