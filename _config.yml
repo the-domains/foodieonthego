@@ -37,6 +37,9 @@ navigation:
   - name: 'An evening with Chef Matthew Kennedy, Toronto'
     id: 5d94f698-7288-462e-81c7-33ec8895132e
     type: content
+  - name: 'Yorkholo Brewing Company, Mansfield, PA'
+    id: f9e337a2-388b-4afe-bcfd-f88883a44c76
+    type: content
 favicon: null
 collections:
   - index:
