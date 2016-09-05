@@ -34,6 +34,9 @@ navigation:
   - name: 'The Vintage Kitchen, Dublin'
     id: 01c1d4cf-8c2b-46b7-8d21-c532221ccb41
     type: content
+  - name: 'Barrio Cantina Food Truck Festival, Antwerp, Belgium'
+    id: 22acd5c9-0938-4d97-b1c0-4ecebc87d62a
+    type: content
 favicon: null
 collections:
   - index:
