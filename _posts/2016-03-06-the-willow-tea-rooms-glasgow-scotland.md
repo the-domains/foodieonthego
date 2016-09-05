@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T02:18:18.525Z'
+datePublished: '2016-09-02T02:18:39.424Z'
 sourcePath: _posts/2016-03-06-the-willow-tea-rooms-glasgow-scotland.md
 inFeed: false
 authors: []
@@ -8,13 +8,9 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-09-02T02:18:17.897Z'
+dateModified: '2016-09-02T02:18:38.860Z'
 title: 'The Willow Tea Rooms, Glasgow, Scotland'
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: >-
   As we purchased tickets to tour the architecture of Charles Rennie Mackintosh
   at the Glasgow School of Art, our host suggested we spend our waiting time at
