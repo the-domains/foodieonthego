@@ -3,21 +3,23 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Review of The Vintage Kitchen restaurant in Dublin. Haddock chowder, pancetta risotto, pork belly, lamb shank, treacle gravy.'
-datePublished: '2016-03-05T23:44:03.166Z'
-dateModified: '2016-03-05T23:43:51.842Z'
+description: "Lucky me, I hear about this great little restaurant, run by a chef, which serves up Irish fare and plays vinyl while they're doing it. \_We, of course, have to go. \_After a number of back-and-forth emails and texts (because every time we proposed was closed or booked) we have a reservation! \_This is not the place to just drop in."
+datePublished: '2016-09-02T01:41:34.789Z'
+dateModified: '2016-09-02T01:41:34.134Z'
 title: 'The Vintage Kitchen, Dublin'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-31-the-vintage-kitchen-dublin.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: the-vintage-kitchen-dublin/index.html
 _type: WebPage
 
