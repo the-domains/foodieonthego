@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'July, 2011'
-datePublished: '2016-03-06T15:16:08.221Z'
-dateModified: '2016-03-06T15:15:45.946Z'
+description: festivalofsouthasia.com
+datePublished: '2016-09-02T02:04:07.969Z'
+dateModified: '2016-09-02T02:04:07.482Z'
 title: 'The Festival of South Asia on Gerrard Street, Toronto'
 author: []
 sourcePath: _posts/2016-03-06-the-festival-of-south-asia-toronto.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+via: {}
+starred: false
 url: the-festival-of-south-asia-on-gerrard-street-toronto/index.html
 _type: WebPage
 
