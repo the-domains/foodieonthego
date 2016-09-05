@@ -55,6 +55,9 @@ navigation:
   - name: 'Cibo on the Red River, Winnipeg'
     id: ebd1514b-fbda-4f99-a967-d14742fc78d5
     type: content
+  - name: 'Nick''s Original, Charleston, SC'
+    id: 0d58dc2b-d17c-45b9-ba44-441527fa7616
+    type: content
 favicon: null
 collections:
   - index:
