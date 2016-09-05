@@ -3,21 +3,17 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'In English, The Beauty and the Beeeef.'
-datePublished: '2016-03-06T15:50:43.589Z'
-dateModified: '2016-03-06T15:49:12.327Z'
+description: "This lively burger bar restaurant on the promenade in Laval, outside of Montreal, has a great patio and engaging pop interior. Do check out the murals and hanging art - and don't miss the bathrooms. \_"
+datePublished: '2016-09-02T02:03:11.933Z'
+dateModified: '2016-09-02T02:03:11.442Z'
 title: 'La Belle et la Boeuf , Laval, Quebec'
 author: []
 sourcePath: _posts/2016-03-06-la-belle-et-la-boeuf-laval-quebec.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: la-belle-et-la-boeuf-laval-quebec/index.html
 _type: WebPage
 
@@ -29,7 +25,7 @@ This lively burger bar restaurant on the promenade in Laval, outside of Montreal
 There are a handful of additional locations if you're in another part of _la belle province_.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/196b5506-4585-40f9-b123-07072fd18527.jpg)
 
-My friend had the PacMac burger - where fried macaroni and cheese blocks are the buns for your hamburger.  He tried, but could not finish it!
+My friend had the Pac Mac burger - where fried macaroni and cheese blocks are the buns for your hamburger.  He tried, but could not finish it!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cca8838f-f517-4350-81f5-855e8b1ce2e2.jpg)
 
 Mine was the Calimero burger with fried egg, smoked bacon , smoked Gouda cheese, lettuce, crispy fried onion and spicy mayo. It was delicious and the egg was an unexpected, clever addition.  
