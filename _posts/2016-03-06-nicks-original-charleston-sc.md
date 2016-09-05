@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Brisket, pulled pork, spare ribs and chicken'
-datePublished: '2016-03-06T18:00:05.979Z'
-dateModified: '2016-03-06T17:59:57.450Z'
-title: "Nick's Original, Charleston, SC"
-author: []
+description: "Nick's BBQ was fabulous. \_You know how you can see a place on the street and something just looks right about it? \_"
+datePublished: '2016-09-02T02:17:21.711Z'
+dateModified: '2016-09-02T02:17:21.282Z'
+title: 'Nick''s Original, Charleston, SC'
+author:
+  - name: ''
+    url: ''
 authors: []
 publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+  name: ''
+  url: ''
 sourcePath: _posts/2016-03-06-nicks-original-charleston-sc.md
-published: true
+via: {}
+starred: false
 url: nicks-original-charleston-sc/index.html
 _type: WebPage
 
