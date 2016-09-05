@@ -3,21 +3,25 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Featured on Diners, Drive-Ins and Dives'
-datePublished: '2016-03-06T15:57:32.850Z'
-dateModified: '2016-03-06T14:53:55.175Z'
-title: 'Joe Squared Pizza, Baltimore, MD'
-author: []
+description: >-
+  Joe had a Hawaiian-style pizza and, it being Baltimore, mine was clam, bacon,
+  bocconcini. Oh, yummy!
+datePublished: '2016-09-02T02:03:32.590Z'
+dateModified: '2016-09-02T02:03:32.051Z'
+title: Joe Squared Pizzas
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-06-joe-squared-pizza-baltimore-md.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: joe-squared-pizza-baltimore-md/index.html
 _type: Article
 
