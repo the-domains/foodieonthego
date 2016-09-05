@@ -52,6 +52,9 @@ navigation:
   - name: 'Pumpkinfest, Port Elgin, ON'
     id: 4c96dbc4-6529-48ae-b479-aa0560f732b0
     type: content
+  - name: 'Cibo on the Red River, Winnipeg'
+    id: ebd1514b-fbda-4f99-a967-d14742fc78d5
+    type: content
 favicon: null
 collections:
   - index:
