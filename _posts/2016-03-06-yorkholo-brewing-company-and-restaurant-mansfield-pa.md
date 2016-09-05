@@ -3,21 +3,26 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Freshly-made from locally sourced ingredients is what Yorkholo specialize in. These hot-from-the-oven, soft pretzel rolls made with beer and served with homemade honey mustard (or beer cheese) are amazing.'
-datePublished: '2016-03-12T23:29:28.598Z'
-dateModified: '2016-03-12T23:29:21.039Z'
+description: >-
+  Freshly-made from locally sourced ingredients is what Yorkholo specialize in.
+  These hot-from-the-oven, soft pretzel rolls made with beer and served with
+  homemade honey mustard (or beer cheese) are amazing.
+datePublished: '2016-09-02T02:02:44.413Z'
+dateModified: '2016-09-02T02:02:43.579Z'
 title: 'Yorkholo Brewing Company, Mansfield, PA'
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-03-06-yorkholo-brewing-company-and-restaurant-mansfield-pa.md
-published: true
 authors: []
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+via: {}
+starred: false
 url: yorkholo-brewing-company-mansfield-pa/index.html
 _type: WebPage
 
@@ -33,8 +38,8 @@ You'll find a lively, casual atmosphere at the Yorkholo brewery restaurant.
 We end up sharing a flight of beer to sample all the great varieties in house at Yorkholo.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8cbc3b0-ec90-422c-b1c0-7efef034b0ff.jpg)
 
-Like us, you may find that the burger is just the thing to keep those brews company and feed a bit that growling stomach.
-![The burger](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a2de9559-58a0-45e8-a823-3bbfe0683813.png)
+Like us, you may find that the burger is just the thing to keep those brews company and feed that growling stomach.
+![The burger](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61ab613f862f0973908111391e9ff57eb16b0149.png)
 
 While Mansfield may seem off the beaten path, it's got a cute Main Street and Yorkholo makes it even more worthwhile.
 
