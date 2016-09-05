@@ -25,9 +25,6 @@ cta:
   bucket: null
   domain: null
 navigation:
-  - name: Belgian Beers - In Belgium!
-    id: b9b4635c-3573-46b8-9daf-f74cb2f53565
-    type: content
   - name: 'Musical Pub Crawl, Dublin'
     id: 338fdc58-5481-46a7-95b1-b8c857071f10
     type: content
