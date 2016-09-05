@@ -37,6 +37,9 @@ navigation:
   - name: 'Barrio Cantina Food Truck Festival, Antwerp, Belgium'
     id: 22acd5c9-0938-4d97-b1c0-4ecebc87d62a
     type: content
+  - name: 'An evening with Chef Matthew Kennedy, Toronto'
+    id: 5d94f698-7288-462e-81c7-33ec8895132e
+    type: content
 favicon: null
 collections:
   - index:
