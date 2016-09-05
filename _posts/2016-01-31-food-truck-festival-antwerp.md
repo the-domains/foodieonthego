@@ -3,21 +3,17 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: 'Food trucks gathered in a park by the water, under the looming castle'
-datePublished: '2016-03-06T16:38:34.455Z'
-dateModified: '2016-03-06T16:38:09.035Z'
+description: "I consider myself incredibly lucky to get myself to Antwerp in time for the Food Truck Festival - with 6 lines of booths (50+) and free admission. The placement was perfect: \_right on the waterfront (Steenplein), next to a looming Steen Castle and across from the Grote Markt.\_"
+datePublished: '2016-09-02T01:42:00.551Z'
+dateModified: '2016-09-02T01:42:00.002Z'
 title: 'Barrio Cantina Food Truck Festival, Antwerp, Belgium'
 author: []
 sourcePath: _posts/2016-01-31-food-truck-festival-antwerp.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+via: {}
+starred: false
 url: food-truck-festival-antwerp/index.html
 _type: WebPage
 
