@@ -19,6 +19,9 @@ analytics:
   facebook: null
   google: null
   twitter: null
+author:
+  name: A. Fraser
+  email: ''
 name: Foodie On The Go
 cta:
   domain: null
@@ -77,6 +80,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-title: Foodie On The Go
+title: 'Discovering great food, festivals and travel experiences'
 description: Discovering great food and travel experiences
 purpose: []
