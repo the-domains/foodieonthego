@@ -1,60 +1,70 @@
-title: Foodie On The Go
-navigation:
-  - id: 338fdc58-5481-46a7-95b1-b8c857071f10
-    name: 'Musical Pub Crawl, Dublin'
-    type: content
-  - id: 01c1d4cf-8c2b-46b7-8d21-c532221ccb41
-    name: 'The Vintage Kitchen, Dublin'
-    type: content
-  - id: 22acd5c9-0938-4d97-b1c0-4ecebc87d62a
-    name: 'Barrio Cantina Food Truck Festival, Antwerp, Belgium'
-    type: content
-  - id: 5d94f698-7288-462e-81c7-33ec8895132e
-    name: 'An evening with Chef Matthew Kennedy, Toronto'
-    type: content
-  - id: f9e337a2-388b-4afe-bcfd-f88883a44c76
-    name: 'Yorkholo Brewing Company, Mansfield, PA'
-    type: content
-  - id: 3517805f-a113-416e-9266-a37eb55aa63a
-    name: 'La Belle et la Boeuf , Laval, Quebec'
-    type: content
-  - id: ad41b62d-9320-4b80-8c18-a63b5a96f0ed
-    name: 'Joe Squared Pizza, Baltimore, MD'
-    type: content
-  - id: a8d07409-cd61-4043-8eda-6c3b00335255
-    name: 'The Festival of South Asia on Gerrard Street, Toronto'
-    type: content
-  - id: 4c96dbc4-6529-48ae-b479-aa0560f732b0
-    name: 'Pumpkinfest, Port Elgin, ON'
-    type: content
-  - id: ebd1514b-fbda-4f99-a967-d14742fc78d5
-    name: 'Cibo on the Red River, Winnipeg'
-    type: content
-  - id: 0d58dc2b-d17c-45b9-ba44-441527fa7616
-    name: 'Nick''s Original, Charleston, SC'
-    type: content
-  - id: 5ccefa4b-e1c7-480e-84a2-32def1027537
-    name: 'The Willow Tea Rooms, Glasgow, Scotland'
-    type: content
-  - id: dc67cda6-9f3b-4ed7-ad8e-b7ee93c71de0
-    name: 'Cooking Class with Chef David Adjey, Dish Cooking Studio, Toronto'
-    type: content
-cta:
-  domain: null
-  version: null
-  bucket: null
-layout_spectrum: 0.25926
-favicon: null
-name: Foodie On The Go
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
+typography_spectrum: 0.59243
+color:
+  brandStrength: 0.4787234
+  lightness: 0.6939925
+  saturation: 0.8153942
+  rhythmicContrast: 0.2747184
+  brandColors:
+    - '#ffffff'
+    - '#ec7c23'
+    - '#f7be43'
+    - '#6c6c6c'
+    - '#000000'
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.25926
+analytics:
+  facebook: null
+  google: null
+  twitter: null
+name: Foodie On The Go
+cta:
+  domain: null
+  version: null
+  bucket: null
+navigation:
+  - name: 'Musical Pub Crawl, Dublin'
+    id: 338fdc58-5481-46a7-95b1-b8c857071f10
+    type: content
+  - name: 'The Vintage Kitchen, Dublin'
+    id: 01c1d4cf-8c2b-46b7-8d21-c532221ccb41
+    type: content
+  - name: 'Barrio Cantina Food Truck Festival, Antwerp, Belgium'
+    id: 22acd5c9-0938-4d97-b1c0-4ecebc87d62a
+    type: content
+  - name: 'An evening with Chef Matthew Kennedy, Toronto'
+    id: 5d94f698-7288-462e-81c7-33ec8895132e
+    type: content
+  - name: 'Yorkholo Brewing Company, Mansfield, PA'
+    id: f9e337a2-388b-4afe-bcfd-f88883a44c76
+    type: content
+  - name: 'La Belle et la Boeuf , Laval, Quebec'
+    id: 3517805f-a113-416e-9266-a37eb55aa63a
+    type: content
+  - name: 'Joe Squared Pizza, Baltimore, MD'
+    id: ad41b62d-9320-4b80-8c18-a63b5a96f0ed
+    type: content
+  - name: 'The Festival of South Asia on Gerrard Street, Toronto'
+    id: a8d07409-cd61-4043-8eda-6c3b00335255
+    type: content
+  - name: 'Pumpkinfest, Port Elgin, ON'
+    id: 4c96dbc4-6529-48ae-b479-aa0560f732b0
+    type: content
+  - name: 'Cibo on the Red River, Winnipeg'
+    id: ebd1514b-fbda-4f99-a967-d14742fc78d5
+    type: content
+  - name: 'Nick''s Original, Charleston, SC'
+    id: 0d58dc2b-d17c-45b9-ba44-441527fa7616
+    type: content
+  - name: 'The Willow Tea Rooms, Glasgow, Scotland'
+    id: 5ccefa4b-e1c7-480e-84a2-32def1027537
+    type: content
+  - name: 'Cooking Class with Chef David Adjey, Dish Cooking Studio, Toronto'
+    id: dc67cda6-9f3b-4ed7-ad8e-b7ee93c71de0
+    type: content
+favicon: null
 collections:
   - index:
       navigable: true
@@ -67,15 +77,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.4787234
-  lightness: 0.6939925
-  saturation: 0.8153942
-  rhythmicContrast: 0.2747184
-  brandColors:
-    - '#ffffff'
-    - '#ec7c23'
-    - '#f7be43'
-    - '#6c6c6c'
-    - '#000000'
-typography_spectrum: 0.59243
+title: Foodie On The Go
+description: Discovering great food and travel experiences
+purpose: []
